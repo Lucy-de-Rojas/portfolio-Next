@@ -13,7 +13,7 @@ export default function Home() {
 
 
       <h1>Lucy de Rojas Portfolio</h1>
-      <p>embding</p>
+      <p>embding:</p>
 
       <embed src='/media/print/LondonEventsGuide2016.pdf' width="500px" height="300px" type="application/pdf" />
 
